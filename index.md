@@ -10,6 +10,7 @@ Below the full list of projects:
 - [PyJFuzz](pyjfuzz) - Python JSON fuzzer
 - [PyJFAPI](pyjfapi) - Python JSON API fuzzer based on PyJFuzz
 - [WinEscalation](winescalation) - Windows Escalation for Python
+- [Py-Forwarder](pyforwarder) - Python port forwarder
 
 # [](#header-1)Whoami
 
