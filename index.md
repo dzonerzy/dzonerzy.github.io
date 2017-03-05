@@ -9,6 +9,7 @@ Below the full list of projects:
 - [Burp-PyJFuzz](burp-pyjfuzz) - Burp Extension for JSON fuzzing
 - [PyJFuzz](pyjfuzz) - Python JSON fuzzer
 - [PyJFAPI](pyjfapi) - Python JSON API fuzzer based on PyJFuzz
+- [WinEscalation](winescalation) - Windows Escalation for Python
 
 # [](#header-1)Whoami
 
