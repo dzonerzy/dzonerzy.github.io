@@ -5,7 +5,7 @@ layout: default
 
 Below the full list of projects:
 
-- [Pync](another-page) - Netcat for Python
+- [Pync](pync) - Netcat for Python
 
 # [](#header-1)Whoami
 
