@@ -37,9 +37,11 @@ In order to work PyJFuzz need a single dependency, **bottle**, you can install i
 **Installation**
 
 You can install PyJFuzz with the following command
+
 ```{r, engine='bash', count_lines}
 git clone https://github.com/mseclab/PyJFuzz.git && cd PyJFuzz && sudo python setup.py install
 ```
+
 
 Documentation and Examples
 ==========================
