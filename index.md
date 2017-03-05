@@ -15,3 +15,7 @@ Below the full list of projects:
 # [](#header-1)Whoami
 
 My name is Daniele Linguaglossa '93 born in Catania, I'm currently working as security researcher @ consulthink S.p.A.
+
+# [](#header-1)Contacts
+
+For info and questions you can contact me at ***danielelinguaglossa@gmail.com***
