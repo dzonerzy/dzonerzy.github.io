@@ -4,6 +4,13 @@ layout: default
 # Pync
 Netcat for Python, simple script which provide a netcat like interface for Python
 
+# Installation 
+In order to download use the following command 
+
+```bash
+git clone https://github.com/dzonerzy/Pync.git
+```
+
 # Features
 
 - Socket bind
@@ -17,7 +24,8 @@ Netcat for Python, simple script which provide a netcat like interface for Pytho
 ## Socks enabled
 This tool allow TCP connection even over socks proxy, you will be able to interact with your target over TOR!
 
-## Interactive console
+## Interactive console
+
 Interactive console is a special feature which allow with a command to send multiple packets and check for response, ie if you want to check ftp authentication the **ftpauth** command is what you need! There are many other commands listed below:
 
 - ftpauth 
