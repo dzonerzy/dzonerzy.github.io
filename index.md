@@ -7,6 +7,7 @@ Below the full list of projects:
 
 - [Pync](pync) - Netcat for Python
 - [Burp-PyJFuzz](burp-pyjfuzz) - Burp Extension for JSON fuzzing
+- [PyJFuzz](pyjfuzz) - Python JSON fuzzer
 
 # [](#header-1)Whoami
 
