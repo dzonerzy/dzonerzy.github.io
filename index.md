@@ -6,6 +6,7 @@ layout: default
 Below the full list of projects:
 
 - [Pync](pync) - Netcat for Python
+- [Burp-PyJFuzz](burp-pyjfuzz) - Burp Extension for JSON fuzzing
 
 # [](#header-1)Whoami
 
