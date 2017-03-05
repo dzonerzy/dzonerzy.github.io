@@ -77,6 +77,7 @@ Py-forwarder may be extended in any way it just need to include a modules folder
 
 All python script within this folder will be included, each module <b>MUST</b> have a predefined structure like following:
 
+```python
     import __builtin__
 
     class Extender(__builtin__.plugin_hook):
@@ -96,6 +97,7 @@ All python script within this folder will be included, each module <b>MUST</b> h
         def sendall(self, forwarder, data, flags=None):
             print "MySendAll"
             super(Extender, self).sendall(forwarder, data, flags)
+```
 
 Is possible to override predefined methods such as:
 
